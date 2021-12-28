@@ -1,4 +1,5 @@
 //Project #2 12/27/2021
+// make cool series of flashing lights
 int d= 100;
 
 void setup() {
